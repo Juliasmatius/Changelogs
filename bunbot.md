@@ -17,3 +17,5 @@ Yes! bun bot was updated! Here's a list of new features :
 
 
 Last update : 10.12.2023
+
+(0.4a was when i got the idea of a changelog)
