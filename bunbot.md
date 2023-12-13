@@ -1,3 +1,17 @@
+(Update 0.5)
+ 
+# AN UPDATE!!
+Yes! bun bot was updated! Here's a list of new features :
+- Uses actual bot commands now!
+- Removed /shutdown
+- Removed /pfpmode
+- renamed /bun_help to /help
+
+
+for info about previous updates visit <https://github.com/Juliasmatius/Changelogs/blob/main/bunbot.md>
+Version 0.5
+Last update : 13.12.2023
+
 (Update 0.4b)
  # Update...
 Yea bun bot was updated the second time today! Here are the changes :
@@ -5,8 +19,6 @@ Yea bun bot was updated the second time today! Here are the changes :
 
 Version 0.4b
 Last update : 10.12.2023
-
-
 
 (Update 0.4a)
 # AN UPDATE!!
