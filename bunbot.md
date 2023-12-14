@@ -1,3 +1,13 @@
+(Update 0.5d)
+# Updates again...
+yea! bun bot was updated again! Here's a list of changes :
+- a few quotes to /quote
+- please give me quites to put in it
+
+for info about previous updates visit <https://github.com/Juliasmatius/Changelogs/blob/main/bunbot.md>
+Version 0.5d
+Last update : 14.12.2023
+
 (Update 0.5c)
  # Updates again...
 yea! bun bot was updated again! Here's a list of changes :
