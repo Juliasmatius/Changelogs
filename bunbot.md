@@ -1,3 +1,12 @@
+(Update 0.9)
+# Updates again...
+yea! bun bot was updated again! Here's a list of changes :
+- added **bunch** new gifs to "/speechbubble"
+
+for info about previous updates visit <https://github.com/Juliasmatius/Changelogs/blob/main/bunbot.md>
+Version 0.9
+Last update : 3.12.2023
+
 (Update 0.8b)
 
 # Updates again...
