@@ -1,3 +1,16 @@
+(Update 0.10)
+
+ Updates again...
+yea! bun bot was updated again! Here's a list of changes :
+- made /update, /statistics and /help look better
+- renamed /statistics to /stats
+- updated how /status works
+- added /insult
+
+for info about previous updates visit <https://github.com/Juliasmatius/Changelogs/blob/main/bunbot.md>
+Version 0.10
+Last update : 31.12.2023
+
 (Update 0.9)
 # Updates again...
 yea! bun bot was updated again! Here's a list of changes :
