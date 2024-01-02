@@ -2,6 +2,9 @@
 # Updates again...
 yea! bun bot was updated again! Here's a list of changes :
 - added /meme
+- added /fox
+- added /cat
+- added /bunny
 
 for info about previous updates visit <https://github.com/Juliasmatius/Changelogs/blob/main/bunbot.md>
 Version 0.11
