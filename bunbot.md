@@ -1,3 +1,12 @@
+(Update 0.11)
+# Updates again...
+yea! bun bot was updated again! Here's a list of changes :
+- added /meme
+
+for info about previous updates visit <https://github.com/Juliasmatius/Changelogs/blob/main/bunbot.md>
+Version 0.11
+Last update : 2.1.2024
+
 (Update 0.10)
 
  Updates again...
